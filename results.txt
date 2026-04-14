@@ -1,0 +1,2 @@
+Baseline Decision Tree AUC: 0.816 | Acc: 0.815
+RF & LR Ensemble with Synthetic Data AUC: 0.947 | Acc: 0.871
